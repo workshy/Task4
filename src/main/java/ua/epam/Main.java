@@ -1,8 +1,10 @@
 package ua.epam;
 
+import java.util.Arrays;
+
 public class Main {
     public static int[] method(int array[], int number) {
-        /*int index = 0;
+        int index = 0;
         int result[] = new int[0];
 
         for (int i = 0; i < array.length; i++) {
@@ -13,8 +15,8 @@ public class Main {
             }
         }
 
-        return result;*/
-        return new int[0];
+        return result;
+        //return new int[0];
     }
 
     public static void main(String[] args) {
